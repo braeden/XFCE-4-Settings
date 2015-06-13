@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Disks
+Comment=
+Exec=gnome-disks
+Icon=/home/braeden/Downloads/numix-icon-theme-circle-master/Numix-Circle/48x48/apps/disk-usage-analyzer.svg
+Path=
+Terminal=false
+StartupNotify=false

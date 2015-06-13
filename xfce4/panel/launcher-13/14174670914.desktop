@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Htop
+Type=Application
+Comment=Show System Processes
+Terminal=true
+Exec=htop
+Icon=/home/braeden/Downloads/numix-icon-theme-circle-master/Numix-Circle/48x48/apps/htop.svg
+Categories=ConsoleOnly;System;
+GenericName=Process Viewer
+X-XFCE-Source=file:///usr/share/applications/htop.desktop
+Path=
+StartupNotify=false
